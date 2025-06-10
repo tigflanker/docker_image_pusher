@@ -5,7 +5,8 @@
 #ollama/ollama:0.9.0
 #xprobe/xinference:v1.6.0.post1
 #docker.n8n.io/n8nio/n8n:1.95.3
-zilliz/attu:v2.5.10
+#zilliz/attu:v2.5.10
+ghcr.io/coder/coder:v4.100.3
 #docker:dind
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
