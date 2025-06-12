@@ -4,9 +4,9 @@
 #ghcr.io/huggingface/text-embeddings-inference:1.5
 #ollama/ollama:0.9.0
 #xprobe/xinference:v1.6.0.post1
-#docker.n8n.io/n8nio/n8n:1.95.3
+docker.n8n.io/n8nio/n8n:1.97.1
 #zilliz/attu:v2.5.10
-ghcr.io/coder/coder:latest
+#ghcr.io/coder/coder:latest
 #docker:dind
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
