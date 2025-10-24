@@ -4,9 +4,10 @@
 #ghcr.io/huggingface/text-embeddings-inference:1.5
 #ollama/ollama:0.9.0
 #xprobe/xinference:v1.9.00
-docker.n8n.io/n8nio/n8n:1.115.0
+docker.n8n.io/n8nio/n8n:1.116.2
 #docker.getoutline.com/outlinewiki/outline:0.87.3
 #jhuckaby/cronicle:latest
+adminer:latest
 #ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlepaddle/paddle:3.1.0
 #registry.baidubce.com/paddlepaddle/paddle:3.1.0
 #zilliz/attu:v2.6
