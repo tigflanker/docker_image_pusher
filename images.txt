@@ -2,8 +2,8 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #ghcr.io/huggingface/text-embeddings-inference:1.5
-#ollama/ollama:0.13.5
-xprobe/xinference:v1.16.0
+ollama/ollama:0.15.4
+#xprobe/xinference:v1.16.0
 #docker.n8n.io/n8nio/n8n:1.123.5
 #docker.getoutline.com/outlinewiki/outline:0.87.3
 #jhuckaby/cronicle:latest
